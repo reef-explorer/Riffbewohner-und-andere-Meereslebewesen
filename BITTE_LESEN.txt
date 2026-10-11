@@ -1,0 +1,14 @@
+OCEAN EXPLORER – DEEP BLUE EDITION
+
+Alle sechs Dateien gemeinsam ins Hauptverzeichnis deines GitHub-Pages-Repositories hochladen:
+index.html
+artenatlas.html
+dive-center.html
+ocean-hero.webp
+marine-life.webp
+dive-center.webp
+
+Die alte index.html ersetzen. Die Seiten laufen ohne Anmeldung und kostenpflichtigen Server.
+WICHTIG: Vorher JSON-Backup deiner Tauchdaten und Sichtungen erstellen. Lokale Browserdaten sind nicht geräteübergreifend synchronisiert.
+
+Das Titelbild und die Kartenbilder sind gestaltete Illustrations-/KI-Motive und keine dokumentarisch geprüften Artenfotos.
