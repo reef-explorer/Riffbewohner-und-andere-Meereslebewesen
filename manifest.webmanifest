@@ -1,24 +1,26 @@
 {
-  "name": "Ocean Explorer – Maldives",
+  "name": "Ocean Explorer",
   "short_name": "Ocean Explorer",
-  "description": "Malediven-Artenatlas und persönliches Dive Center",
+  "description": "Unterwasserführer, Artenatlas und Dive Center für die Malediven.",
   "start_url": "./index.html",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#061d2e",
+  "background_color": "#06293b",
   "theme_color": "#06293b",
   "icons": [
     {
-      "src": "app-icon-192.png",
+      "src": "./app-icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "app-icon-512.png",
+      "src": "./app-icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
     }
   ]
 }
